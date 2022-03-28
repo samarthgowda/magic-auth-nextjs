@@ -42,7 +42,7 @@ export default function SignIn() {
 
     setAddress(address);
 
-    // router.push(`/dashboard`); 👈 Redirect to certain
+    // router.push(`/dashboard`); 👈 Redirect to certain pages
   };
 
   return (
